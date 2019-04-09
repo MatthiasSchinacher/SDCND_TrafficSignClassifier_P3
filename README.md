@@ -14,6 +14,11 @@ The solutions result log is "results_20190409140717.txt".
 Also included in the git- repository are various files needed to run the notebook,
 plus the original LICENSE and CODEOWNERS files.
 
+### IMPORTANT: DATASET!
+Since I could not upload "traffic-signs-data.zip" to the github repository,
+if you clone it locally, you have to put said ZIP- archive into the "dataset/"
+subdirectory and unzip it; otherwise the jupyter notebook won't work!
+
 ## Project README
 (original README from udacity from here on)
 
